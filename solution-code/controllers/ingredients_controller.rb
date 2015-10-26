@@ -1,4 +1,4 @@
-class RecipeApp < Sinatra::App
+class RecipeApp < Sinatra::Base
   # index
   get "/ingredients" do
     @ingredients = Ingredient.all
