@@ -2,6 +2,7 @@
 
 For part two of our Cookbook app, we're going to setup our app to allow users to perform CRUD operations on recipes, courses, and ingredients from a web interface.  Create the controllers with RESTful resources as well as the corresponding views.
 
+Please continue to use what you have develop for `RecipeApp`
 
 ## Exercise
 
@@ -19,10 +20,6 @@ For part two of our Cookbook app, we're going to setup our app to allow users to
 - Your show page should link to the edit page
 
 **Bonus**: Make your Cookbook pretty!
-
-#### Starter code
-
-Grab the [starter-code](starter-code) to get started.
 
 #### Deliverable
 
